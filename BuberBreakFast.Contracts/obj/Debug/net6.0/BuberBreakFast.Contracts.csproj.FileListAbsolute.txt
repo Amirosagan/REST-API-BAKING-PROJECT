@@ -1,0 +1,12 @@
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.deps.json
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.dll
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.pdb
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.AssemblyReference.cache
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfoInputs.cache
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfo.cs
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.CoreCompileInputs.cache
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.dll
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\refint\BuberBreakFast.Contracts.dll
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.pdb
+D:\first steps c#\REST API BAKING PROJECT\BuberBreakFast.Contracts\obj\Debug\net6.0\ref\BuberBreakFast.Contracts.dll
